@@ -4,10 +4,10 @@
 
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
-weight = 60  # Order that this section will appear.
+active = true  # Activate this widget? true/false
+weight = 15  # Order that this section will appear.
 
-title = "Recent Posts"
+title = "News"
 subtitle = ""
 
 [content]
@@ -15,7 +15,7 @@ subtitle = ""
   page_type = "post"
   
   # Choose how much pages you would like to display (0 = all pages)
-  count = 5
+  count = 0
   
   # Choose how many pages you would like to offset by
   offset = 0
@@ -37,7 +37,7 @@ subtitle = ""
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view = 2
+  view = 1
   
 [design.background]
   # Apply a background color, gradient, or image.
@@ -66,3 +66,10 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+
+Nov  2020 - One new [preprint](publication/mohan-2020-graph/) submitted to arXiv <br>
+Aug  2020 - Successfully defended [masters thesis](http://digitallibrary.usc.edu/cdm/compoundobject/collection/p15799coll89/id/367418/rec/1)! <br>
+Nov  2019 - One [paper](publication/liu-2020-boltzmann/) accepted to [Computational Materials Science](https://www.journals.elsevier.com/computational-materials-science) <br>
+Aug  2018 - I've moved to USC! <br>
+Aug  2018 - *Practical Social Network Analysis* is now available! See the [website](publication/pm-2018-practical) for details <br>
+Jul  2017 - One [paper](publication/krishnaraj-2017-performance/) accepted to [Social Network Analysis and Mining](https://www.springer.com/journal/13278) <br>
