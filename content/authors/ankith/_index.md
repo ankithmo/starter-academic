@@ -44,15 +44,15 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/mohan_ankith
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=cLZzH6oAAAAJ
+  link: https://scholar.google.co.uk/citations?user=cLZzH6oAAAAJ&hl=en
 - icon: github
   icon_pack: fab
   link: https://github.com/ankithmo
-#- icon: twitter
-#  icon_pack: fab
-#  link: https://twitter.com/mohan_ankith
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 #- icon: cv
@@ -60,7 +60,7 @@ social:
 #  link: media/Ankith_Mohan_CV.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "ankithmo@usc.edu"
+email: ""
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
